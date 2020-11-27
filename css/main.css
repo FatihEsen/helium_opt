@@ -51,7 +51,7 @@ a {
 }
 
 a:hover, a:active, a:focus {
-  color: #D14E63;
+  color: #696163;
   text-decoration: none;
 }
 
@@ -272,7 +272,7 @@ strong {
 }
 
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-  color: #aaa;
+  color: #aaag;
 }
 
 #headers .navbar {
@@ -555,7 +555,7 @@ footer #copyright .nav-inline {
 }
 
 .color-footer .widget-area {
-  background: #D14E63;
+  background: #696163;
 }
 
 footer .widget-title {
@@ -609,7 +609,7 @@ footer .menu li a {
 }
 
 footer .menu li a:hover {
-  color: #D14E63;
+  color: #696163;
 }
 
 .twitter-content ul li {
@@ -672,7 +672,7 @@ footer .menu li a:hover {
 }
 
 #copyright p a:hover {
-  color: #D14E63;
+  color: #696163;
 }
 
 .social-icon .facebook:hover {
@@ -808,12 +808,12 @@ footer .menu li a:hover {
 }
 
 .btn-link:hover {
-  color: #D14E63;
+  color: #696163;
   text-decoration: none;
 }
 
 .btn-link:focus {
-  color: #D14E63;
+  color: #696163;
   text-decoration: none;
 }
 
@@ -852,7 +852,7 @@ footer .menu li a:hover {
 }
 
 .btn-filled:hover {
-  background: #D14E63;
+  background: #696163;
 }
 
 .btn-default-filled, .btn-default-filled:active, .btn-default-filled:focus {
@@ -863,8 +863,8 @@ footer .menu li a:hover {
 
 .btn-default-filled:hover {
   color: #fff;
-  background: #D14E63;
-  border: 2px solid #D14E63;
+  background: #696163;
+  border: 2px solid #696163;
 }
 
 /* / End Default Button */
@@ -1010,8 +1010,8 @@ footer .menu li a:hover {
 
 .pagination .btn-default-filled:hover {
   color: #fff;
-  background: #D14E63;
-  border: 1px solid #D14E63;
+  background: #696163;
+  border: 1px solid #696163;
 }
 
 /* End Paginations */
