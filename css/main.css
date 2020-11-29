@@ -5,6 +5,11 @@ Website: https://uideck.com
 More Info: https://uideck.com/products/helium-ui-kit
 */
 @import url("https://fonts.googleapis.com/css?family=Rubik:400,700|Montserrat:700");
+.youtube {
+
+}
+
+
 /* Typography */
 
 h1, h2, h3, h4, h5, h6 {
@@ -3795,13 +3800,13 @@ address i {
 }
 
 /* / End Alerts */
-#portfolio {
+#services {
   background: #F6F6F6;
   padding: 60px 0;
   width: 100%;
 }
 
-#portfolio .mix {
+#services .mix {
   padding: 0;
   display: none;
 }
@@ -3824,18 +3829,18 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
   background: #e02424ff;
 }
 
-#portfolio-list {
+#services-list {
   margin-top: 15px;
   display: inline-block;
 }
 
-.portfolio-img {
+.services-img {
   overflow: hidden;
   display: block;
   position: relative;
 }
 
-.portfolio-img img {
+.services-img img {
 padding:10%;
 }
 
@@ -3953,8 +3958,8 @@ padding:10%;
   transition: all 0.5s ease;
 }
 
-.portfolio-item:hover .portfoli-content,
-.portfolio-item:hover .portfoli-content:before {
+.services-item:hover .portfoli-content,
+.services-item:hover .portfoli-content:before {
   opacity: 1;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
@@ -3963,7 +3968,7 @@ padding:10%;
   transform: scale(1);
 }
 
-.portfolio-item:hover .sup-title {
+.services-item:hover .sup-title {
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);
@@ -3972,21 +3977,21 @@ padding:10%;
   opacity: 1;
 }
 
-.portfolio-item:hover .sup-description {
+.services-item:hover .sup-description {
   opacity: 1;
   -webkit-transform: translateY(0px);
   transform: translateY(0px);
 }
 
-.portfolio-item:hover .sup-link .right-link,
-.portfolio-item:hover .sup-link .left-link {
+.services-item:hover .sup-link .right-link,
+.services-item:hover .sup-link .left-link {
   opacity: 1;
   webkit-transform: translateY(0px);
   transform: translateY(0px);
 }
 
-/* Portfolio */
-#portfolio ul.portfolio {
+/* services */
+#services ul.services {
   margin-bottom: 0 !important;
 }
 
@@ -4114,20 +4119,20 @@ figure {
   display: inline-block;
 }
 
-#portfolio .portfolio.block {
+#services .services.block {
   top: 15px;
 }
 
-#portfolio .portfolio.block h5 {
+#services .services.block h5 {
   color: #444;
 }
 
-#portfolio .project {
+#services .project {
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
-#portfolio .project-description {
+#services .project-description {
   font-size: 14px;
   color: #444;
 }

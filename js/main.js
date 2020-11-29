@@ -35,7 +35,7 @@
       });
 
     //MixitUp
-     $('#portfolio').mixItUp();
+     $('#services').mixItUp();
 
     /* Testimonials Carousel 
     ========================================================*/
