@@ -4534,7 +4534,7 @@ ul.nav-tabs li a {
 
 @media (max-width: 480px) {
   .navbar-brand img {
-    max-width: 120px;
+    max-width: 100px;
   }
   .sub-title {
     font-size: 20px;

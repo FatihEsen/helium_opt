@@ -25,6 +25,9 @@ h1.main, p.demos {
 	height: 100%;
 	z-index: 999;
 	}
+.sp-container img {
+	width:50%;
+	}
 .sp-content {
 	position: absolute;
 	width: 100%;
@@ -35,10 +38,10 @@ h1.main, p.demos {
 }
 .sp-container h2 {
 	position: absolute;
-	top: 20%;
+	top: 30%;
 	line-height: 110%;
 	height: 90px;
-	font-size: 10vw;
+	font-size: 8vw;
 	width: 100%;
 	text-align: center;
 	color: transparent;
@@ -66,7 +69,7 @@ h1.main, p.demos {
 	animation-delay: 6s;
 }
 .sp-container h2.frame-4 {
-	font-size: 15vw;
+	font-size: 10vw;
 	-webkit-animation-delay: 9s;
 	-moz-animation-delay: 9s;
 	-ms-animation-delay: 9s;
