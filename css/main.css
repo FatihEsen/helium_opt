@@ -401,6 +401,7 @@ footer .social a {
 footer {
   background: #282828;
   color: #7C7C7C;
+  margin-top:20px;
 }
 
 footer .small-title {
@@ -1195,7 +1196,7 @@ footer .menu li a:hover {
 
 /* Default Navbar */
 .navbar-nav .nav-link {
-  color: #fff;
+  color: #ccc;
   font-size: 14px;
   margin-right: 18px;
   font-weight: 400;
