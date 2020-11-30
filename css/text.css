@@ -7,15 +7,21 @@ margin-top:0;
   overflow: hidden;
   right: 0;
   bottom: 0;
-  max-height: 100%;
 }
 
+.embed-responsive-item {
+padding: 5%;
+}
 
 h1.main, p.demos {
 	-webkit-animation-delay: 18s;
 	-moz-animation-delay: 18s;
 	-ms-animation-delay: 18s;
 	animation-delay: 18s;
+}
+.intro {
+width:100%
+height: 100%;
 }
 .sp-container {
 	position: absolute;
@@ -26,7 +32,7 @@ h1.main, p.demos {
 	z-index: 999;
 	}
 .sp-container img {
-	width:50%;
+	width:40%;
 	}
 .sp-content {
 	position: absolute;
@@ -38,7 +44,7 @@ h1.main, p.demos {
 }
 .sp-container h2 {
 	position: absolute;
-	top: 30%;
+	top: 20%;
 	line-height: 110%;
 	height: 90px;
 	font-size: 8vw;

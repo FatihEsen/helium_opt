@@ -37,17 +37,5 @@
 
 /* mobile or only mobile */
 @media (max-width: 767px) {
- 
- .sp-container {
- margin-top:0px;
- top:50%;
- 
- }
- 
-.sp-container h2 {
-	position: absolute;
-	width: 50%;
-	text-align: center;
-	color: transparent;
-  }
+
 }
