@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="128"
+   height="128"
+   viewBox="0 0 33.866665 33.866667"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1142"
+       x="-0.0066877119"
+       width="1.0133754"
+       y="-0.016719446"
+       height="1.0334389">
+      <feGaussianBlur
+         stdDeviation="0.35241694"
+         id="feGaussianBlur1144" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <g
+       id="Layer1002"
+       transform="matrix(0.08983012,0,0,0.09262273,207.37394,677.09719)">
+      <path
+         d="m -2252.7136,-7208.2372 h -53.8583 l 26.9292,53.8583 z"
+         style="fill:#f06868;fill-rule:evenodd"
+         id="path538" />
+      <path
+         d="m -2225.7845,-7154.3789 h -53.8582 l 26.9291,-53.8583 z"
+         style="fill:#e02424;fill-rule:evenodd"
+         id="path540" />
+      <path
+         d="m -2225.7845,-7154.3789 h -53.8582 l 26.9291,53.8582 z"
+         style="fill:#ca0b0b;fill-rule:evenodd"
+         id="path542" />
+      <path
+         d="m -2198.8553,-7100.5207 h -53.8583 l 26.9291,-53.8582 z"
+         style="fill:#ac0505;fill-rule:evenodd"
+         id="path544" />
+      <path
+         d="m -2198.8553,-7100.5207 h -53.8583 l 26.9291,53.8583 z"
+         style="fill:#ca0b0b;fill-rule:evenodd"
+         id="path546" />
+      <path
+         d="m -2171.9262,-7154.3789 h -53.8583 l 26.9292,53.8582 z"
+         style="fill:#8a0808;fill-rule:evenodd"
+         id="path548" />
+      <path
+         d="m -2171.9262,-7154.3789 h -53.8583 l 26.9292,-53.8583 z"
+         style="fill:#5f0404;fill-rule:evenodd"
+         id="path550" />
+      <path
+         d="m -2144.9971,-7208.2372 h -53.8582 l 26.9291,53.8583 z"
+         style="fill:#e30016;fill-rule:evenodd"
+         id="path552" />
+      <path
+         d="m -2144.9971,-7208.2372 h -53.8582 l 80.7874,161.5748 53.8582,-107.7165 53.8583,107.7165 80.7874,-161.5748 h -53.8583 l -26.9291,53.8583 -26.9291,-53.8583 h -53.8583 l -26.9291,53.8583 z"
+         style="fill:#3a3a3a;fill-rule:evenodd"
+         id="path554" />
+      <path
+         d="m -2144.9971,-7208.2372 h -53.8582 l 26.9291,53.8583 z"
+         style="fill:#4a4c4a;fill-rule:evenodd"
+         id="path556" />
+    </g>
+    <g
+       id="g188"
+       transform="matrix(0.15572361,0,0,0.1605647,395.66985,1159.8688)" />
+  </g>
+</svg>
