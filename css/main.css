@@ -3844,7 +3844,7 @@ a:focus:not([href]):not([tabindex]), a:hover:not([href]):not([tabindex]) {
 padding:10%;
 }
 
-.portfoli-content {
+.services-content {
   width: 100%;
   position: absolute;
   height: 100%;
@@ -3854,7 +3854,7 @@ padding:10%;
   transition: opacity 0.8s cubic-bezier(0.19, 1, 0.22, 1);
 }
 
-.portfoli-content:before {
+.services-content:before {
   background-color: RGBA(224, 36, 36, 0.7);
   top: 15px;
   left: 15px;
@@ -3958,8 +3958,8 @@ padding:10%;
   transition: all 0.5s ease;
 }
 
-.services-item:hover .portfoli-content,
-.services-item:hover .portfoli-content:before {
+.services-item:hover .services-content,
+.services-item:hover .services-content:before {
   opacity: 1;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
